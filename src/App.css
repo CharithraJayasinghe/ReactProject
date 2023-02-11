@@ -2,6 +2,16 @@
   text-align: center;
 }
 
+.bg {
+  background-image: url(./components/images/2053068.png);
+  width : 1500px;
+  height: 600px; 
+  background-size: cover;
+   
+ }
+
+ 
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -27,6 +37,29 @@
 .App-link {
   color: #61dafb;
 }
+.btn1{
+  font-size: 1rem;
+  border-radius: 20px;
+  border: 0;
+  font-weight: 600;
+  margin: 1;
+  padding: 0.5rem 1rem;
+  /* white-space: nowrap; */
+ 
+  
+  
+ 
+
+}
+.pbtn{
+  
+  background-color: chartreuse;
+  }
+
+  .pbtn1{
+  
+    background-color:gold
+    }
 
 @keyframes App-logo-spin {
   from {
